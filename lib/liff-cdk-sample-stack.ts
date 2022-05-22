@@ -62,6 +62,5 @@ export class LiffCdkSampleStack extends Stack {
       distribution: liffAppDistribution,
       distributionPaths: ['/*']
     })
-
   }
 }
